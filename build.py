@@ -18,7 +18,9 @@ JST = timezone(timedelta(hours=9))
 OUT_DIR = Path(__file__).parent
 MAX_PER_CATEGORY = 15
 MAX_AGE_DAYS = 3  # これより古い記事は除外
-LIMIT_OVERRIDE = {"競合チャンネル": 40}  # カテゴリ別の表示件数
+LIMIT_OVERRIDE = {"競合チャンネル": 40, "注目俳優（中国）": 30}
+AGE_OVERRIDE = {"注目俳優（中国）": 14}  # カテゴリ別の対象日数
+TAG_CATEGORIES = {"競合チャンネル", "注目俳優（中国）"}  # 検索語タグを付けるカテゴリ  # カテゴリ別の表示件数
 
 # (カテゴリ名, 説明, [検索クエリ...])
 CATEGORIES = [
@@ -36,6 +38,10 @@ CATEGORIES = [
         '"中国ドラマ"', '"中国時代劇"', '"華流"', '"華流ドラマ"', '"中華ドラマ"', '"古装劇"',
         '"中国ドラマ" 日本初放送 OR 日本初上陸', '"中国ドラマ" 配信 OR 放送',
     ]),
+    ("注目俳優（中国）", "チェック対象の中国人俳優の最新ニュース", [
+        '"ワン・イーボー" OR 王一博', '"シャオ・ジャン" OR 肖戦', '"シュー・カイ" OR 許凱 OR "徐開"',
+        '"リウ・ユーニン" OR 劉宇寧', '"チャオ・ルースー" OR 趙露思', '"チャン・ルオユン" OR 張若昀',
+    ]),
     ("ドラマ・音楽コンテンツ","競合・トレンド・ヒット作", [
         "ドラマ 視聴率", "韓国ドラマ 日本 放送", "音楽番組 新番組", "音楽ライブ 配信 放送", "動画配信 ドラマ 独占配信",
     ]),
@@ -51,9 +57,9 @@ CATEGORIES = [
 ]
 
 
-def fetch(query: str):
+def fetch(query: str, days: int = 3):
     url = "https://news.google.com/rss/search?" + urllib.parse.urlencode(
-        {"q": f"{query} when:3d", "hl": "ja", "gl": "JP", "ceid": "JP:ja"}
+        {"q": f"{query} when:{days}d", "hl": "ja", "gl": "JP", "ceid": "JP:ja"}
     )
     try:
         req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
@@ -90,7 +96,9 @@ def collect():
     result = []
     with ThreadPoolExecutor(8) as ex:
         for name, desc, queries in CATEGORIES:
-            batches = list(ex.map(fetch, queries))
+            days = AGE_OVERRIDE.get(name, MAX_AGE_DAYS)
+            batches = list(ex.map(lambda q: fetch(q, days), queries))
+            cutoff = now - timedelta(days=days)
             items = []
             for b in batches:
                 for it in b:
@@ -114,9 +122,9 @@ def rel(dt, now):
 
 
 def tag(it, cat):
-    if cat != "競合チャンネル":
+    if cat not in TAG_CATEGORIES:
         return ""
-    return f'<i class="tag">{html.escape(it["query"].strip(chr(34)))}</i> '
+    return f'<i class="tag">{html.escape(it["query"].split(" OR ")[0].strip(chr(34)))}</i> '
 
 
 def render(now, result):
