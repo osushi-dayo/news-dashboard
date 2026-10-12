@@ -4,6 +4,7 @@ Googleニュース RSS をカテゴリ別に取得し、index.html を出力す�
 カテゴリ/キーワードは下の CATEGORIES を編集すれば変更できる。
 """
 import html
+import unicodedata
 import json
 import re
 import urllib.parse
@@ -39,10 +40,9 @@ CATEGORIES = [
     ("CS放送・スカパー！", "自社と直接関わる動き", [
         "スカパー", "CS放送", "スカパーJSAT 放送", "スカパー 新チャンネル OR 新番組 OR 料金",
     ]),
-    ("競合チャンネル", "他社CS・BS専門チャンネルの動き（タイトルにチャンネル名を含む記事のみ）", [
-        'intitle:"チャンネル銀河"', 'intitle:"チャンネルNECO"', 'intitle:"日本映画専門チャンネル"', 'intitle:"ホームドラマチャンネル"',
-        'intitle:"LaLa TV"', 'intitle:"衛星劇場"', 'intitle:"WOWOW"', 'intitle:"歌謡ポップスチャンネル"',
-        'intitle:"時代劇専門チャンネル"', 'intitle:"ファミリー劇場"',
+    ("競合チャンネル", "他社CS・BS専門チャンネルの動き（タイトルか記事本文にチャンネル名がある記事のみ）", [
+        '"チャンネル銀河"', '"チャンネルNECO"', "日本映画専門チャンネル", "ホームドラマチャンネル",
+        '"LaLa TV"', "衛星劇場", "WOWOW", "歌謡ポップスチャンネル", "時代劇専門チャンネル", "ファミリー劇場",
     ]),
     ("ケーブルテレビ・放送業界","CATV・衛星・放送制度・配信との競合", [
         "ケーブルテレビ", "JCOM 放送", "BS放送 4K", "放送業界 配信 視聴", "NHK 民放 ネット配信",
@@ -110,6 +110,84 @@ OLD_PAGE_PATTERN = re.compile(
 VS_PATTERN = re.compile(r"(?<![A-Za-z])vs\.?(?![A-Za-z])", re.I)
 
 
+# --- 本文チェック: タイトルに検索語がない記事は、元記事の本文(<p>)に検索語があるか確認する ---
+# 「関連記事」欄の見出しにだけ名前が出ている記事を除外するため。取得失敗・本文が短い場合は残す（取りこぼし防止）
+BODY_CHECK_CATEGORIES = {"競合チャンネル"}
+ALL_CHANNEL_NAMES = ["チャンネル銀河", "チャンネルNECO", "日本映画専門チャンネル", "ホームドラマチャンネル", "LaLa TV",
+                     "衛星劇場", "WOWOW", "歌謡ポップスチャンネル", "時代劇専門チャンネル", "ファミリー劇場"]
+UA = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/124 Safari/537.36"}
+
+
+def _get(url, data=None, headers=None, timeout=20):
+    req = urllib.request.Request(url, data=data, headers={**UA, **(headers or {})})
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        return r.read().decode("utf-8", "replace")
+
+
+def resolve_google_news(gurl):
+    """Googleニュースの中継URLから元記事のURLを取り出す。失敗したら None。"""
+    tok = gurl.split("/articles/")[1].split("?")[0]
+    h = _get(f"https://news.google.com/rss/articles/{tok}")
+    sg = re.search(r'data-n-a-sg="([^"]+)"', h)
+    ts = re.search(r'data-n-a-ts="([^"]+)"', h)
+    if not (sg and ts):
+        return None
+    inner = json.dumps(["garturlreq", [["X", "X", ["X", "X"], None, None, 1, 1, "US:en", None, 1, None, None, None, None, None, 0, 1],
+                                       "X", "X", 1, [1, 1, 1], 1, 1, None, 0, 0, None, 0], tok, int(ts.group(1)), sg.group(1)])
+    body = "f.req=" + urllib.parse.quote(json.dumps([[["Fbv4je", inner, None, "generic"]]]))
+    r = _get("https://news.google.com/_/DotsSplashUi/data/batchexecute", data=body.encode(),
+             headers={"Content-Type": "application/x-www-form-urlencoded;charset=UTF-8"})
+    m = re.search(r'\\"garturlres\\",\\"(https?:[^"\\]+)', r)
+    return m.group(1) if m else None
+
+
+def fold(t):
+    return unicodedata.normalize("NFKC", t).lower().replace(" ", "").replace("\u3000", "")
+
+
+def direct_url(it):
+    """Googleの中継URLを元記事URLに解決する。Yahoo!ニュースの写真ページ(/images/NNN)は記事本文のURLに直す。"""
+    try:
+        url = resolve_google_news(it["link"])
+    except Exception:
+        return None
+    if url and "news.yahoo.co.jp/articles/" in url:
+        url = re.sub(r"/images/\d+.*$", "", url)
+    return url
+
+
+def fix_link(it):
+    """Yahoo!ニュースのリンクだけ、写真ページ→記事ページに差し替える（他媒体はそのまま）。"""
+    if "yahoo" in it["source"].lower():
+        url = direct_url(it)
+        if url:
+            it["link"] = url
+            it["resolved"] = True
+    return it
+
+
+def body_has(it):
+    """True=タイトル/本文に名前がある or 判定不能(残す) / False=本文に無い(除外)"""
+    names = {fold(it["query"].strip(chr(34)))} | {fold(n) for n in ALL_CHANNEL_NAMES}
+    if any(n in fold(it["title"]) for n in names) or fold(it["source"]) in names:
+        return True
+    try:
+        url = it["link"] if it.get("resolved") else resolve_google_news(it["link"])
+        if not url:
+            return True
+        h = _get(url)
+    except Exception:
+        return True
+    h = re.sub(r"(?is)<(script|style|noscript|nav|aside|footer|header|form)\b.*?</\1>", "", h)
+    paras = re.findall(r"(?is)<p\b[^>]*>(.*?)</p>", h)
+    text = " ".join(re.sub(r"<[^>]+>", "", p) for p in paras)
+    meta = " ".join(re.findall(r'(?is)<meta[^>]+(?:og:description|name="description")[^>]+content="([^"]*)"', h))
+    text = fold(html.unescape(text + " " + meta))
+    if len(text) < 150:
+        return True
+    return any(n in text for n in names)
+
+
 def norm(t: str) -> str:
     return re.sub(r"[\s\W_]+", "", t)[:30]
 
@@ -131,6 +209,11 @@ def collect():
                         continue
                     seen.add(key)
                     items.append(it)
+            list(ex.map(fix_link, items))
+            if name in BODY_CHECK_CATEGORIES:
+                ok = list(ex.map(body_has, items))
+                print(f"本文チェック[{name}]: {len(items)}件中 {len(items) - sum(ok)}件を除外")
+                items = [it for it, good in zip(items, ok) if good]
             items.sort(key=lambda x: x["dt"], reverse=True)
             result.append((name, desc, items[:LIMIT_OVERRIDE.get(name, MAX_PER_CATEGORY)], len(items)))
     return now, result
@@ -148,7 +231,7 @@ def rel(dt, now):
 def tag(it, cat):
     if cat not in TAG_CATEGORIES:
         return ""
-    return f'<i class="tag">{html.escape(it["query"].replace("intitle:", "").split(" OR ")[0].strip(chr(34)))}</i>'
+    return f'<i class="tag">{html.escape(it["query"].split(" OR ")[0].strip(chr(34)))}</i>'
 
 
 def is_new(it, now):
