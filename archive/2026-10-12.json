@@ -4,16 +4,17 @@
   "items": [
    {
     "title": "WHITE SCORPION、ファン撮影の「神ショット」が豊洲PITライブの公式駅広告になるファン参加型企画を発表",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GbXJ2elRMNXJZcEswTFctRjFHX01MZWdGOVBpVXRiU3BjSC1SUGtjRk8zSWJMZVBJb2RRamxSU2pOSGNRbDV6T2g2dHY0VUNuZm9RckhSdzliQTBnelpaQmxSUUpHalhDWlNvOGVjRG9fYUF4VWthZzhvZFYzelk?oc=5",
+    "link": "https://news.yahoo.co.jp/articles/1f2e3b1d2e32abfb0597b4907f86619a1ab0ea65",
     "source": "Yahoo!ニュース",
     "dt": "2026-10-12T12:00:00+09:00",
-    "query": "スカパー"
+    "query": "スカパー",
+    "resolved": true
    },
    {
     "title": "ROIROM、スカパー! 30周年感謝祭アンバサダーに就任 全5回の記念番組も配信も決定「“好き”以上の学びになりました」",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15VEt2VjJDREpJWjhxaE5EZE1QX0ZkUi1XdHRMYURpN0h4bE5hMzlVdU9veDFIeC1Icm9Hb2YxRUhOM2swbWxOR3pKNU9KenFoOXh3OGIzVTRkQQ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wcXd6XzlscjgwcE9HYXRrbGo4bDF5cXdiOWY4X2plZkRoUExJM1dqZ1c2NWhXNFVibHYzRS1fZEVQc1d2eHBfMllsTkpYajk1blZCSTRSa1hIQQ?oc=5",
     "source": "WEBザテレビジョン",
-    "dt": "2026-10-12T11:05:21+09:00",
+    "dt": "2026-10-12T06:36:31+09:00",
     "query": "スカパー"
    },
    {
@@ -59,6 +60,13 @@
     "query": "CS放送"
    },
    {
+    "title": "動き出した「宇宙データセンター」",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1YXVzUnNyVE81UGNKQ3lRUVJIWEJDYVBsMWM2MlF1MmhXZGVWWktLY3VtUnA1U1ozeVRVVGFlTFphTWtFbU16LUU0YnpqX2xGSk1ZSDJQb2NFMHVqQS1z?oc=5",
+    "source": "日経クロステック",
+    "dt": "2026-10-10T23:54:47+09:00",
+    "query": "スカパー 新チャンネル OR 新番組 OR 料金"
+   },
+   {
     "title": "つばきファクトリー (@tsubakifac_uf) on X",
     "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBRQkF0TUpEQzhGZDlvbzBYSVNRV29DM3g4UjlVQXZiQzMwb1dLcWllTmhBMFpTUlpSVDZz?oc=5",
     "source": "Howl.link",
@@ -99,13 +107,6 @@
     "source": "Goal.com",
     "dt": "2026-10-10T13:36:01+09:00",
     "query": "CS放送"
-   },
-   {
-    "title": "スカパー！30TH ロイロムチュー！ #2「バッテリィズ篇」",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Gc2NQdjNIejBxb3RpOVU5UWVqbGlhYURtWDhvQk1WMjE2VzAzUnNGTmF3b0ZuRkNadzVMVm1uZklQRW1XYkRrMGlQbDFfSTl3aDBLd256cUM4b00x?oc=5",
-    "source": "YouTube",
-    "dt": "2026-10-10T12:00:04+09:00",
-    "query": "スカパー"
    }
   ]
  },
@@ -117,280 +118,285 @@
     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tYUlPRlFFR1VHejhMd0pNaG8xaUtMb280VVZxUUtvRlpoWTk1Q05sSXQ5Rmxsc2R6LW5nOGkyZVVtVGhLMUtRYmxDSE1GSWdVVVlVajdEdlM?oc=5",
     "source": "映画.com",
     "dt": "2026-10-12T04:25:39+09:00",
-    "query": "intitle:\"WOWOW\""
+    "query": "WOWOW"
    },
    {
     "title": "TMNETWORK、ツアー『QUANTUM』横浜アリーナ公演をWOWOWで独占放送・配信",
     "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOQXZ4ZXlrLVZodm9LejdXN2M0QU5NdjJZSDl0eGI5azFZOXRlYzhXYy0xT3gyUVBFOWwzNWNsMW1uZ2ZhaEJNV3M5VWdXUDZxeGxLSUxQd3hCdVd2Nk1LM0hjYUpuSWV4MDYyeE9sYkVBM3p2MHdhQUk1Zl9DdHY4UHVYczV1dG1qdHprZ1ZqWVRZUVFzNThlQnlPOHZ6NHlCV0tONWhVR1d6bDZJaGdNTmhFNXZuajd0NWJTVEg0Q0YzYTZlN3prWHdiaWdILVBDV3lYN3pFSGQ5R0s5ckVmNkZpM0Q1R1g2eEtuaTVXQ3FySzFLWGJoU1R6dVlCMWl1M29OU1RsZlNlaktodkpra1lJSE4xUGhCdkVsSHBJQUVzYklZa1JIRV9PY0VCejNGd2J0RkhHdXo0NGw2NHdadmhRZWx5VTA0cHFLbVMxZlI2MzlKV3JnLUY1ZzZGZldfNUpHSldJdDY3d1hyNkNN?oc=5",
     "source": "山陽新聞",
     "dt": "2026-10-12T02:44:11+09:00",
-    "query": "intitle:\"WOWOW\""
+    "query": "WOWOW"
    },
    {
-    "title": "WOWOWオリジナルドラマ (@drama_wowow) on X",
-    "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1GeDRDZlZRck14ZEs3NmhHc2JXQ2pfcm4zb1doYktEQ1VqRWFKdFJyZnQwa0pUUEI1d3lZ?oc=5",
-    "source": "Howl.link",
-    "dt": "2026-10-11T23:00:00+09:00",
-    "query": "intitle:\"WOWOW\""
+    "title": "広瀬裕也の記念すべき初ソロライブ！『広瀬裕也 Live Tour 2026 \"Focus\"』東京公演を2027年1月にCSホームドラマチャンネルでテレビ初放送！独占インタビュー映像も！",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tcmMzZEM1T2dtb3VyeXRCbHJRcGFncXNyU0lOeXJ2Ymd1QnEtaVNCdmota0JaUlA4UmkxQkFKa2JvdU1zU1ZSdzFWdDk0VDU2aUlOczdRSzZLa2REWGdCUmZ3Q250dkhGU3c?oc=5",
+    "source": "PR TIMES",
+    "dt": "2026-10-11T20:00:01+09:00",
+    "query": "ホームドラマチャンネル"
    },
    {
-    "title": "WOWOW ライブ | WOWOWオンデマンドで見る",
-    "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5ESG05VEkzRjRtM2o5WWZXdVVFZ2VxYzB2TEI4dEJ6bVJ4a0Z1REdRSThsUDZMOFJXMVR3?oc=5",
-    "source": "Howl.link",
-    "dt": "2026-10-11T15:00:00+09:00",
-    "query": "intitle:\"WOWOW\""
+    "title": "スターダスト☆レビュー×杉山清貴＆オメガトライブ YOKOHAMA NIGHT GROOVE！ | 音楽",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1USEl5bWlEUDNCQW1HN1c5LVpxeklvdG1YN01ESUdkUnJVMzlaa21GZ0RYTUZaRVhsZEhSNTVUejQzbm9FWVJySFQ5SzBFZw?oc=5",
+    "source": "WOWOW",
+    "dt": "2026-10-11T17:32:33+09:00",
+    "query": "WOWOW"
+   },
+   {
+    "title": "井上芳雄とアンドリュー・ロイド＝ウェバーが対談、「芳雄のミュー」でオンエア",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9PcHRpR0d6M0lLSXpDVnR1dW5KdlpCRUhQMDVXdm96WFNjNnhOUjJ3X1pCVGRnZXlLYTQtS0dKNnNBMkV0TndCaFNBdVA?oc=5",
+    "source": "ナタリー",
+    "dt": "2026-10-11T11:00:00+09:00",
+    "query": "WOWOW"
    },
    {
     "title": "スターダスト☆レビュー、45周年ツアー地元・埼玉公演をWOWOWで放送・配信！ホーンセクション加えた特別ステージ",
     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX0lHNUZmVHNEbWtWZmEyYkhYNzNITlhLLVdmdUVhdGFSUWRJcHNfNllOZnlBNXd1cjIxYTliMTFtQzdsdGUtZUl0T0ZzUkhYVnlZY0hQcm11c1dxQmR6N2Q0QjhIY2lyTkZKVk5qb3QyQ0tVb1BrSkk5QnRFS0FmbS1DTjE1NElzVXfSAY8BQVVfeXFMTlh5UEZkQUlJcDBXRF8zbm95aW52VnFuNmxGamt4aUtCWUIwZ2hSUWN0T1BocmRuS3hJZE4yTlZNVDZvSW5SeFZnYjJyeWZQVXA1VHVQWlBsRU5uZzIxWXU2aTRaRnVmMHFtRjRES2xtV3RCRVJDcWZuTmFsRU4tVUYtbFNJdGxDM0pBUGNBRGM?oc=5",
     "source": "ｄメニューニュース",
     "dt": "2026-10-11T09:00:00+09:00",
-    "query": "intitle:\"WOWOW\""
+    "query": "WOWOW"
    },
    {
     "title": "与晋長安～乱世に咲く、宿命の華～#9",
     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JYVpCNHNYd2FoM3luSWVCeE9ONW1yeGxtY25jaWc4dU14YUFxaDlJR2lfN19lRzZDRUMzZXV2UDlwbzhwNGx3U3c4a1RkUjVEX1hpSjQzbWMyUQ?oc=5",
     "source": "衛星劇場",
     "dt": "2026-10-11T06:24:08+09:00",
-    "query": "intitle:\"衛星劇場\""
+    "query": "衛星劇場"
+   },
+   {
+    "title": "「10代の初々しさが…」牧瀬里穂〝36年前の映画デビュー〟姿に再脚光「少女の軌跡の瞬間」「スターオーラがハンパない」「変わってなくてビビる」",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc0kyaGFqcjBqREJIUTBlN0p4Q2dqY0t0Wk42bUJUaldhSml5Q1hoTWE4M2pRTnZuSjZzNjNYVHkyMjk4ZXJPemxpa096OFpPYUF6UWdJd0N4UUYtNlU3QTEwT0ZJdHl6ODB5OXFOZGd1Nm12SVRJSmNRREIxNm1uWg?oc=5",
+    "source": "西スポWEB OTTO!",
+    "dt": "2026-10-10T18:20:00+09:00",
+    "query": "日本映画専門チャンネル"
    },
    {
     "title": "ラブフォビア～愛に臆病なあなたへ～#8（最終話）",
     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0N0xSQWNKVlNBVE85S3RYbWVFaVZfME14dTk2X0NkV25oQ0pNMkNwcGRNbXcwbmVpM0hyZ3RpaG9pN3R3MWpkSWhvTVJXR2NfelplZDR0elFjUQ?oc=5",
     "source": "衛星劇場",
     "dt": "2026-10-10T17:43:55+09:00",
-    "query": "intitle:\"衛星劇場\""
+    "query": "衛星劇場"
+   },
+   {
+    "title": "スターダスト☆レビューが展開中の45周年ロングツアーから、メンバーの地元・埼玉で開催される、野外ライブの模様を12月20日（日）にWOWOWで放送・配信！ | 株式会社WOWOWのプレスリリース",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqM0d0U1p0U3ZLWDNra0NXRTJXYUF5cUw5ZEdUa1oyMEFZX1E3REhwYmtKU0tnVWdaVmRPdXVMcjZ1WUUtME8tMzFLamdrUTlsY0VGQW9XdC13cS1fLVBzNVdPWFpRX013bUE?oc=5",
+    "source": "PR TIMES",
+    "dt": "2026-10-10T17:00:01+09:00",
+    "query": "WOWOW"
+   },
+   {
+    "title": "スターダスト☆レビュー＞45周年ツアーのうち10月10日開催のメンバーの地元・埼玉での野外ライブ 12月20日にWOWOWで放送・配信が決定（MANTANWEB）",
+    "link": "https://news.yahoo.co.jp/articles/a597496a12eec5ace52b5f18e1b528c36b30f98c?page",
+    "source": "Yahoo!ニュース",
+    "dt": "2026-10-10T17:00:00+09:00",
+    "query": "WOWOW",
+    "resolved": true
    },
    {
     "title": "JUJU×松任谷正隆 2カ月連続特集",
     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UREpXcUVaQ2MwMF9lZklKX21tVGVnVk5xbUhGSG1QSTVIOXl4NXQ4OHYtODhramlqRG12YTJzM2psTEVqSk5hUUZtYm1RTGM?oc=5",
     "source": "WOWOW",
     "dt": "2026-10-10T16:56:40+09:00",
-    "query": "intitle:\"WOWOW\""
+    "query": "WOWOW"
+   },
+   {
+    "title": "主婦版アベンジャーズがご近所トラブルを華麗に解決 「新兵」シリーズの監督が手掛ける痛快コメディサスペンス＜サロン・ド・ホームズ",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHcDNoaVRyT29qT3pvRXJsSTRTTllGYUlsaVRGS0NrNmI0MEVLeVdjRjFnbFhOYlJCVWJiRGhRYUttaHhTSUdDem5MOHlPYUc5Mm44TXR2dkU?oc=5",
+    "source": "WEBザテレビジョン",
+    "dt": "2026-10-10T16:43:25+09:00",
+    "query": "衛星劇場"
    },
    {
     "title": "DREAMS COME TRUE×WOWOWが12ヶ月連続特集 6～11月ラインナップ決定",
     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DdUNTdHFTZU5RMk9VaW5sbjRnWTFhd2FJc0IyRUtzYl83RXJQdm5ueWx2VkpfVzVlNm9QX2lJZDlxN3BhckNSeGFFT0c0V00wX2c?oc=5",
     "source": "山陽新聞",
     "dt": "2026-10-10T16:00:00+09:00",
-    "query": "intitle:\"WOWOW\""
+    "query": "WOWOW"
+   },
+   {
+    "title": "中村七之助「天守物語」や中村鴈治郎＆松本幸四郎「祇園恋づくし」など歌舞伎3作品を10月テレビ初放送",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53U1h1T0NvaGM0eDk0ajdUNnpwdUNLTnNCcWM0cHBTVzg4SEs4MEROZWR6OTNBWGk4cDhwLWM3eUtlbEJlcnhpV0xfSldCYmlFVU5EaEV4Wm4?oc=5",
+    "source": "WEBザテレビジョン",
+    "dt": "2026-10-10T15:28:56+09:00",
+    "query": "衛星劇場"
+   },
+   {
+    "title": "「素晴らしき新世界」ホ・ナムジュン、グラビアで洗練されたオールバック姿を披露…現場スタッフも絶賛",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxSGFWSl9lOUREbFlzVnU2X3JvSExnZHlXR3RDUm1yQ0x0Tzg2bzd0a3JRaWQ4bnM1VFVWQlg4b0dFYmhxd3k2MUEwX1p1UGZMS0huQWVpZDgzcFRB?oc=5",
+    "source": "Kstyle",
+    "dt": "2026-10-10T13:30:00+09:00",
+    "query": "衛星劇場"
+   },
+   {
+    "title": "ソン・ウェイロン×チャオ・ジンマイ、大人の余裕と一途さが交差する「輝く太陽のように」",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcFJMMjAtRUlJOGFPZ2ZmUFpNSk9LSlZLMTlEd0FhSFlOaHhzbkRDM0lKdE5TejNaa3NUYUJOckRsRHZhY0NSeWp1VFZOM1NkVnNpU2RYMTdOblFsMGl3TTdKNGxpVHFqUU02b1ZRdzJ6NEo2RnhkWTNrOXNKR3NNTHA0MWhTUXBiVmdkY09WRHU1cVFZM09JQ3dwTHJnVzNYcGfSAaIBQVVfeXFMTXBSTDIwLUVJSThhT2dmZlBaTUpPS0pWSzE5RHdBYUhZTmh4c25EQzNJSnROU3ozWmtzVGFCTnJEbER2YWNDUnlqdVRWTjNTZFZzaVNkWDE3Tm5RbDBpd003SjRsaVRxalFNNm9WUXcyejRKNkZ4ZFkzazlzSkdzTUxwNDFoU1FwYlZnZGNPVkR1NXFRWTNPSUN3cExyZ1czWHBn?oc=5",
+    "source": "ｄメニューニュース",
+    "dt": "2026-10-10T13:00:00+09:00",
+    "query": "ホームドラマチャンネル"
+   },
+   {
+    "title": "ソ・イングク「作品の成功が自分の成功だと思っていたが…考えが変わった」",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44OWswX0NwQ2p0eE1Pa1hJSGl5NThDY21hSndxX09MTjR5NVc0SXdGamtxdWdwUEVxc2UtQ1ZoODFTaUJVemt6aUhNTGlma0U3d1N1Z3NGb2VMa1c5?oc=5",
+    "source": "Kstyle",
+    "dt": "2026-10-10T13:00:00+09:00",
+    "query": "衛星劇場"
    },
    {
     "title": "JUJU＞松任谷正隆演出の最新ツアーファイナル公演をWOWOWで12月放送・配信 来年1月にはユーミン楽曲のカバーライブも（MANTANWEB）",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YUXBXbWhnb0hUMnB0QnNTZlhmVFVPcFZqQy13YWRHay1LSkxELTNpd0UxQTlJanhQTmZrR0ZmaWpwRm9zY1ZmRV92QjVWaWJ4dlR6dmxQRUJRR1k0RnhnSTdrLWlWcUNJQkZrdEFWc0VNUFAwck9wd3ZiVlF2X28?oc=5",
+    "link": "https://news.yahoo.co.jp/articles/de0baae022309248def32029b501738a6b1eb811",
     "source": "Yahoo!ニュース",
     "dt": "2026-10-10T12:13:00+09:00",
-    "query": "intitle:\"WOWOW\""
+    "query": "WOWOW",
+    "resolved": true
+   },
+   {
+    "title": "真矢ミキ連ドラ初主演作！地図を駆使し事件を解決に導く刑事を熱演したミステリードラマ「捜査地図の女」（HOMINIS）",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMlloNHNUTmt3NUtRQ2owQzNVV2FlT3VyRnR6dEVvX0xLVFRGS1hEMW5RRHdWTFFHdjNPNm5YTnNXY0Zidk1KUXB2Qk5uWjlOTHlMYU5VVENpMHlfdnJVVi1xZU9QYkpxLU43ZThVYk4zOUh1QVA0bXNyMlFkZnp6dmp3MTlQdW9UYlhleVVYVWRaQmx6YnF6NmY4UkMtRWxfblE?oc=5",
+    "source": "ｄメニューニュース",
+    "dt": "2026-10-10T12:00:00+09:00",
+    "query": "ファミリー劇場"
+   },
+   {
+    "title": "アニメ『薬屋のひとりごと』3期はいつから？2026年10月2日から分割2クールで放送！原作のどこからどこまで？",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0ZXg1eG5obDJROWdrMkh0YXR4d0h6Mjh6c0FER2ltUGdrVWNRY1hUUGF6RHBrTExsT2daODVrbi00NUo3eW1kdy10SUNvdzVISHJUZA?oc=5",
+    "source": "ABEMA TIMES",
+    "dt": "2026-10-10T00:50:00+09:00",
+    "query": "\"チャンネルNECO\""
    },
    {
     "title": "上白石萌音のデビュー10周年ライブがWOWOWで放送！鹿児島凱旋公演も",
     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qZDZsYkJzdVpMWE9tc2lKRHFQWU9aTXkyN3J0eVV4S1pNRlQtVnpWbTdaX25MQWVUbDd6RUhNb2cwM2k1dWVVSmwwNV9BZ05Na01VdjFtVHYtbGJfRFZlNURvSV9DbmxXRF90aHRR?oc=5",
     "source": "au Webポータル",
     "dt": "2026-10-09T20:06:00+09:00",
-    "query": "intitle:\"WOWOW\""
+    "query": "WOWOW"
    },
    {
     "title": "NHK「BS日本のうた」チャンネル銀河で10月12日放送！ 6:00～宇崎竜童・藤あや子他、18:00～小柳ルミ子・天童よしみ他登場！ 各放送回の出演者・曲目情報 NHK「BS日本のうた」チャンネル銀河で10月12日放送！ 6:00～宇崎竜童・藤あや子他、18:00～小柳ルミ子・天童よ",
     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wNEJia2tpdGgzenYxN1JWZllpUTN3Z3pubmVmeUtUZmJ4OG9EYkhKOVNKSnlwZWZYMHJIUXo5YWVKQjI3MHNtN2lBWldxQm1jSFE5OV9QRzY?oc=5",
     "source": "うたびと",
     "dt": "2026-10-09T19:49:01+09:00",
-    "query": "intitle:\"チャンネル銀河\""
+    "query": "\"チャンネル銀河\""
+   },
+   {
+    "title": "北村匠海が\"闇落ち公務員\"に！？ 生気のない瞳で魅せる、河合優実×窪田正孝と描く\"クズとワル\"の映画「悪い夏」",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xampxUkd1cTFTMU5tTkdGN2xXSVRiRzRoZmE1ZEM5WkhhTUxjX2gyX0ZYQWVRS2NveFZidU9Ia0x1dUxpSloyNS1uWDg1dnJTLTRSTlNsMnU4UU0?oc=5",
+    "source": "ホミニス",
+    "dt": "2026-10-09T19:02:51+09:00",
+    "query": "\"チャンネルNECO\""
    },
    {
     "title": "IVE、WOWOWオリジナルインタビュー特番が2027年1月放送決定！6人の絆や未来に迫る",
     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSWQ1TVk0SXAwZzZFdjVPcFlyRlpWcXZFb1Bqb0Nmb1ZORjlfblhrdDdGXy03d0ZwWlN1MzduRnJPTFJGYjYxeUFWZ0Q4MWdYaEpfX21FWTdCdDNaWS1xUS1XeDJsVjlUVldsRG9UZ1NIY2ZoTlRtTnZUQTI3RkdRRnlmNFJxSmpReFHSAY8BQVVfeXFMTlIzdkR2YUhxSjdadmJrVWtielRVX2k0OGxOTXBuOU1JWVphLV9YUTZrVlVFV19oMW5nQ1hHWkVUNWgwZU9ycGJ0RXljTHNJSGJEU3hXN3pVd2dCSDZPQkRfSHF1cm8wTWRQM3lyZ2I3eG51TFJrSVZOdldSOFZWZEgtM2F5VV93dFJyUXNRTlE?oc=5",
     "source": "ｄメニューニュース",
     "dt": "2026-10-09T18:30:00+09:00",
-    "query": "intitle:\"WOWOW\""
+    "query": "WOWOW"
    },
    {
-    "title": "WOWOW総合 (@WOWOW_SOGO) on X",
-    "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9JajlUc2QzSnlhNDRSNFBGM0pHa2dNSmZDa2R6NllTbTBKQS1DWjluVnhwR2ZncjBrY1Rr?oc=5",
-    "source": "Howl.Link",
-    "dt": "2026-10-09T18:00:02+09:00",
-    "query": "intitle:\"WOWOW\""
+    "title": "柴咲コウ×オダギリジョー×満島ひかりが共演！3人の繊細な芝居で描く\"笑って泣ける\"物語「兄を持ち運べるサイズに」",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00NW14Zm9kQnBGaWUzVVhsZHVEM2hsdzNsZXViVDI2ZUxHOThmTTV2N0NmaFNFdjBfbnRPdjRUOVV2dE9pZndrZmxqSmxGb1h5bHpGQ2FxX21ST0U?oc=5",
+    "source": "ホミニス",
+    "dt": "2026-10-09T18:00:00+09:00",
+    "query": "日本映画専門チャンネル"
+   },
+   {
+    "title": "高橋克典が映画にすべてを懸けた男・金子正次を熱演 「竜二」誕生の物語を描く青春映画「竜二 Forever」（WEBザテレビジョン）",
+    "link": "https://news.yahoo.co.jp/articles/047b89d1a6814a5f95c5158248d3ca7d26b38841",
+    "source": "Yahoo!ニュース",
+    "dt": "2026-10-09T18:00:00+09:00",
+    "query": "衛星劇場",
+    "resolved": true
    },
    {
     "title": "＜宝塚への招待＞花組「ポーの一族」をWOWOWで10月31日に放送 元トップスター明日海りお＆柚香光が副音声解説",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NdVJsZzh1V2Uwb0xBNDJja212TVlySzJaSG0wdThGMXlENU9oSmF0RVpfQzBHTTZKcXJ1NU5HOFZxeHotRTFGZmFidGl1Q2pLVXUzMXZrMWkyZ193VlFUa0FLQW1vX01CSGR6cDRoX0pQc3lSSGJseVQ0X2xPeEk?oc=5",
+    "link": "https://news.yahoo.co.jp/articles/555514d509ce1799f5bca040bfdc3fbca6b50407",
     "source": "Yahoo!ニュース",
     "dt": "2026-10-09T18:00:00+09:00",
-    "query": "intitle:\"WOWOW\""
+    "query": "WOWOW",
+    "resolved": true
    },
    {
     "title": "WOWOW×宝塚番組『宝塚への招待』　『ポーの一族』（花組2018年）を明日海りおと柚香光による副音声解説付きで放送",
     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5bTE4ODFBLWpYLWNBaV9EWl9ua3NzTURoRnVaZVZhLTNNQTNXSHlrb19RMGExb19xVzFLRXVmOGlDc214VWdWUUVLNTRkWTTSAVRBVV95cUxPS2VkdzhLRTY4NmxvSlBBMlc1OWRDLXRUNjNFcGZwbmtZNlNYTG9kZXFCT0hVcFBQN19KZlZEcEtSUXNkcTVpNV9pOTNPZlF3MVd4QUU?oc=5",
     "source": "エンタメ特化型情報メディア スパイス",
     "dt": "2026-10-09T18:00:00+09:00",
-    "query": "intitle:\"WOWOW\""
+    "query": "WOWOW"
+   },
+   {
+    "title": "濱田岳、西田敏行から受け継いだ\"ハマちゃん\"役！「釣りバカ日誌 新入社員 浜崎伝助」で見せた自由奔放で憎めない魅力",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uX3VyWTVGSTRUS3ZoVEh4cDltQ1MyR1lONDE1cXJSM0FmYW8tOFlDSVNVME52ejNyRGhiM1JSNzNqeEJ5VktVRkM3TkdINHFuaWZZSGw1UEZEbnM?oc=5",
+    "source": "ホミニス",
+    "dt": "2026-10-09T17:30:00+09:00",
+    "query": "ホームドラマチャンネル"
    },
    {
     "title": "THE SPELLBOUND＞川島道行さんの10周忌ライブをWOWOWで12月放送・配信 BOOM BOOM SATELLITESの楽曲を未来へつなぐ（MANTANWEB）",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aLUlKQWdPd1RGZ3Y1Q1lPYzNTX0lMQzNpNGJEdFdBRkp4b2VmZ2k4bVV5NkZ4NktvbUgwZXZodEd0c1FUUXBSRGRmSi1UUUpSc2l2QnNqdnFGRG9GT2ZSWThlS0RLU3UwNEU3YmlCSGJaMnQxU3VkYmtqekNKWTg?oc=5",
+    "link": "https://news.yahoo.co.jp/articles/a3d7273f230896992f6c4619332dea0aef882309",
     "source": "Yahoo!ニュース",
     "dt": "2026-10-09T17:10:00+09:00",
-    "query": "intitle:\"WOWOW\""
+    "query": "WOWOW",
+    "resolved": true
    },
    {
     "title": "THE SPELLBOUND × BOOM BOOM SATELLITES、川島道行10周忌LIVEをWOWOWで12月に放送・配信",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xcUkwTkVtWGhuS0VzQjdNbU1NMnpLVlpSTEpoUm95SHc5akxPUGxPamtQRnVuNnd2SHRZeEdndG5GT1JRNE5CX3lsRWhHazM5X3RQSk1keWthX2dzWnBaa0c3eW1yOFZwdlE?oc=5",
     "source": "PR TIMES",
     "dt": "2026-10-09T17:00:02+09:00",
-    "query": "intitle:\"WOWOW\""
+    "query": "WOWOW"
    },
    {
     "title": "ATEEZの日本ファンミーティングの模様がWOWOWで放送決定！ 日本ならではのスペシャルなステージが盛りだくさん",
     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRX1hoR0R0MUI0bU5NS096YWpqRGtyNUQzN3RnRWlabno3VEZmQ1VQX2NobWFPZnRyZjJsVE1PVFNvRm1JUVU4c1FpVkx1bFJmNlFLajdqLVFGaHJk?oc=5",
     "source": "Kstyle",
     "dt": "2026-10-09T17:00:00+09:00",
-    "query": "intitle:\"WOWOW\""
+    "query": "WOWOW"
+   },
+   {
+    "title": "山口智子、鈴木京香、松本幸四郎...今も色あせない若き日の名演が光る三谷幸喜脚本の名作「王様のレストラン」",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jRHM3S0I5ZnJJTEpCckNydXhsOTlndnV2Y0FFeEFYZFY0T1VUZzVKcGJIVHB2LUVNUW5PWEFVZE9pbHl0NVdkSGhYbDJTSmtnakF3UjU2UHVhQnM?oc=5",
+    "source": "ホミニス",
+    "dt": "2026-10-09T16:30:00+09:00",
+    "query": "ホームドラマチャンネル"
+   },
+   {
+    "title": "TVアニメ『ゴールデンカムイ』最終章「暴走列車編」ティザービジュアルが公開！",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmSmh3MHYyLUJZaHVBbzRGdFl6amttem1lUkw3eU95Qmg3UGx5Z1BfMGk5M2dNZm5KajFoRUVVWXlFdG02Rjk5T3hBZGMwWV9DNFpzNw?oc=5",
+    "source": "eeo",
+    "dt": "2026-10-09T16:00:00+09:00",
+    "query": "\"チャンネルNECO\""
+   },
+   {
+    "title": "のんが魅せる新境地――吉永小百合の青年期役の好演から橋本愛との再共演まで、才能が爆発した映画3選",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiNkMyRVpqME5CTnBOT0g0Nm5FZlVNclM4dEs1clZybUZlc3U3MHJ6QlYxcUxEZ1FwcnhSMTNSTk5lQkNfMUVKN254NGZleFQ0bk9sb0dtdW5FVUgxLWdmUUkyTjM?oc=5",
+    "source": "J:magazine!",
+    "dt": "2026-10-09T16:00:00+09:00",
+    "query": "日本映画専門チャンネル"
    },
    {
     "title": "BBC Earth 2026 キングダム 大地の覇者",
     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zdGJmRHpEcEFnbXBpYTVldEFvbTVKZXc0RE1Tb0tINzZqYWlJV3Y0UC1GS3M4VGlkeEdqUGlHdHhZQXozZzJoaTIxMVpRZw?oc=5",
     "source": "WOWOW",
     "dt": "2026-10-09T16:00:00+09:00",
-    "query": "intitle:\"WOWOW\""
+    "query": "WOWOW"
    },
    {
     "title": "異端者の家",
     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11cEhEMGh2c1V4US1ZYW9aRlBJOW5SRkpFM2RYTkZ2blhrYWstMnFyUENJejJVakd4a3JIdmtPQmN0WTU4aFh6SEROaTdkZw?oc=5",
     "source": "WOWOW",
     "dt": "2026-10-09T16:00:00+09:00",
-    "query": "intitle:\"WOWOW\""
+    "query": "WOWOW"
    },
    {
-    "title": "「錦織劇場 第二幕」も鼻血が出るまで…",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdUJjOG9iQ1JiRmdiekJuTk56OEM2NE5FTFllLWExVUhzV0dYampnTzZRdElKb0dUejRrakk1aHRqaWZlaVRTTTBLMXliQW5rejZrNEV3SlRyVHpTcjlGSmhfbm9kbFM4RVNwa29ldkdNaEJac0RkSVFzSTBSTjRDclZQM1pxTnN3eTYzUg?oc=5",
-    "source": "WOWOW",
-    "dt": "2026-10-09T12:22:25+09:00",
-    "query": "intitle:\"WOWOW\""
+    "title": "林部智史がデビュー10周年を迎え見せた素顔と、アルバム『Myself』レコーディング秘話「バンドメンバーと『せーの！』で一発録り」",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3eWc5VFdwR3RZa2JEZG9hWmx1WXBFSnBSWkZDMXBqQ3BkN01pN1lNVFlOU1pueWh5LVBZdThidFlMeDZDbUFLamMyMjBlTjhEZUNoRG1HdUJwV242OV9MdTJEVjY?oc=5",
+    "source": "J:magazine!",
+    "dt": "2026-10-09T16:00:00+09:00",
+    "query": "歌謡ポップスチャンネル"
    },
    {
-    "title": "『ジョン・レノン＆オノ・ヨーコ：One to One』フルサイズ予告【WOWOW】",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5NR190Z2lLQUhrWDMycWxLbFBHRUxyV3FyY1BxeWc5ZTAzM2JhbVhYXzk1LTB1d040RC1NTjY0VEExUQ?oc=5",
-    "source": "YouTube",
-    "dt": "2026-10-09T12:00:17+09:00",
-    "query": "intitle:\"WOWOW\""
-   },
-   {
-    "title": "WOWOW、K-POP＆韓流の新編成枠『K-POP & 韓流LOVERS』スタート！NCT 127、ATEEZ、SHINee、BABYMONSTERら続々",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWmZYOTFraEtza1JHMERWdXlPakszaUJMT000UGNhTGhWUThacXlibGh6V2kxWWs2SURaLXo3QVVsMXFDVGdtTkJ5Y29zVkNwQW5VaWRqbEJsenpiRFBld1JaOXlIVjhLOXM0X3BsbGhaak9jZ1ljWHRSRjI5eVhmTkNmUjdaUUo0YnfSAY8BQVVfeXFMUG1lSXpCc3FZNEx6ZVJPZUVpcm81aUswX1RmbHFUUmNSVzJyTGdGN0VnSFBBYl9PaS1tcTRaYjhsQTRWeFFFR1FNRENmc2VPeXRleW01ZXdNNWYyRHh5R1NZbnNvS0pmdks3bHdTZWdJVGlvMVJmUXVqT2dGaGlCMmlGNWZNRFJqN0VLZExtQTg?oc=5",
-    "source": "ｄメニューニュース",
-    "dt": "2026-10-09T06:00:00+09:00",
-    "query": "intitle:\"WOWOW\""
-   },
-   {
-    "title": "【スカパー！でホームドラマチャンネルを見る方法】スマホで簡単 ３ステップ！ Manduria (u7wRMn7DFO)",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fd0tiSzhsQ0VTbnpLeWpiYmk3UTJWWXd3UGo2SmlOeGtpOGUwN3pQMzMyX2x2ajNuc0NBWVoweXk1VDRFaEx3ektINDQ2cWNBR2l1TTNIcHAtajZ3V1VoVmZIZUV5Zw?oc=5",
-    "source": "Unisba Media",
-    "dt": "2026-10-09T05:20:53+09:00",
-    "query": "intitle:\"ホームドラマチャンネル\""
-   },
-   {
-    "title": "■明治ファミリー劇場の感想文・感想画を表彰",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE44bWlESV8tbXlkRlhaSllGYjZyWnhobVdRdnBqWjlaeTAzYmhKOG5weGlUUWxqc3FGVEpTcm93WTJ4V1ZQTDJrR3k0el9TaXNOQzNNYXpVNUJZMGxZUGwyRzVn?oc=5",
-    "source": "琉球新報デジタル",
-    "dt": "2026-10-09T05:00:00+09:00",
-    "query": "intitle:\"ファミリー劇場\""
-   },
-   {
-    "title": "與座さんら4人 最優秀賞 明治ファミリー劇場感想文・画",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Ea2Nha0p3R3RXYlY3UVpadjVYc1A5elJ3czd4QjhVWE9ZbGdVcWtVRjNWNEhja3lzSjZEVVlYUzY0MWIwWFhybjh4QjM5Nmw1ZnQ3ZE1WZmFNSjZNRWc?oc=5",
-    "source": "沖縄タイムス社",
-    "dt": "2026-10-09T04:00:00+09:00",
-    "query": "intitle:\"ファミリー劇場\""
-   },
-   {
-    "title": "NHK「BS日本のうた」チャンネル銀河で10月9日放送！ 6:00～五木ひろし・北山たけし・三山ひろし他、18:00～細川たかし・水森かおり他登場！ 各放送回の出演者・曲目情報 NHK「BS日本のうた」チャンネル銀河で10月9日放送！ 6:00～五木ひろし・北山たけし・三山ひろし他、1",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2V21hY1F3YUdBN1Vfa2txMXRuWjBLTzhmRlhOaEZncVBaTDBDcGotaUI0cHlnQ0liS2VhQWgzRXRQYmlkNUxsc2NrOEZXRWlqUkRPbHVIb3E?oc=5",
-    "source": "うたびと",
-    "dt": "2026-10-08T19:50:21+09:00",
-    "query": "intitle:\"チャンネル銀河\""
-   },
-   {
-    "title": "NCT 127、ATEEZ、SHINee…WOWOWで「K-POP & 韓流LOVERS」が10月よりスタート",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5hRDY4a3Vyb0x4cHdLWVV3MXV5YXFxUlhtTUVEaUNCQkNYenhpeVhvWHBLaExVWndPMmRlYVUtSWl4bWFzQVZQdQ?oc=5",
-    "source": "海外ドラマNAVI",
-    "dt": "2026-10-08T19:00:34+09:00",
-    "query": "intitle:\"WOWOW\""
-   },
-   {
-    "title": "IVEのWOWOWオリジナルインタビュー特番が2027年1月に独占放送・配信決定！",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBGMzlmRFFDY2J5VXdJSGhDN1lFd3psc3d4WmVKQTJnWTIwYmhWMzVDQUU3T2FUYl83RFFONGZteEtxdGNvaHVvMg?oc=5",
-    "source": "海外ドラマNAVI",
-    "dt": "2026-10-08T18:15:37+09:00",
-    "query": "intitle:\"WOWOW\""
-   },
-   {
-    "title": "IVE×WOWOW特集に新たなラインナップが決定！IVEのWOWOWオリジナルインタビュー特番を2027年1月に独占放送・配信！",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IR0l5VXpNaWhxS1p0LWcwUUFlUWxzWTNoU1lPTmIxeTluRTRYZ2o4NFZxOEFMMndXME9VbThQRmpNRE1OdHZmaXZWM2pSbldXUEJOU3g2RWVJV3NOejIzRFZNXzNaNnRaMmc?oc=5",
-    "source": "PR TIMES",
-    "dt": "2026-10-08T18:00:01+09:00",
-    "query": "intitle:\"WOWOW\""
-   },
-   {
-    "title": "IVE＞WOWOW特集に新ラインアップ 来年1月にインタビュー特番「Focus on IVE」を独占放送・配信決定（MANTANWEB）",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hbXBhcmJyZzN0OVJBYThTQ3NuT2tMdElIMlBhLVFqRDlVVkZvdTcxdzNzZkFyelVCeFpldGFSc0F2WXpOczRuaHBEdlVlZDF1MG9tQ3JuVmdkM3NuZ0RMNFJuNDNKYUQzcUhVRFhkSEY1clB0TnNHV01GVnpsb3M?oc=5",
-    "source": "Yahoo!ニュース",
-    "dt": "2026-10-08T18:00:00+09:00",
-    "query": "intitle:\"WOWOW\""
-   },
-   {
-    "title": "錦織の対フェデラー全成績（3勝8敗）",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVWhETlJmTEp6U2JxZHR4UnVzazNuTUJvcHNxb1lsdWxteDRqcmxsU1llTGZldUhTQk9XYTNwQ0dSVWtzVnhyaGV0QTJKYk53TUxoLTR1SXVxNmYtTDlBRjJ2Q3R2SnlOTW1yU2JkSXVjMkxmdE9Oc3hmeGtFYVdqZzZR?oc=5",
-    "source": "WOWOW",
-    "dt": "2026-10-08T17:13:26+09:00",
-    "query": "intitle:\"WOWOW\""
-   },
-   {
-    "title": "WOWOWで、K-POPアーティスト・韓国俳優のライブやファンミーティングを注力特集する新編成枠「K-POP & 韓流LOVERS」をスタート！",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWjNMWDB0MklreHc1MFZadWtLQ0g1S2FxdHFHeDZmdUZ3dVBscFJ6MGNvd1VvbG1FNEZKTXRCVG53Y2R6VmpjWU5MaThrcU81eGdhRURRcGJnbW9vOWxnSmhxT3o5amZWMTFCQmJoNENiMk1tdjc1NEIxdWYwT1JSQkZscWcxeEZLRmRCOERmanV2Sy1WcDd5TUtn0gGWAUFVX3lxTFBOVEpTOUFVdHViM05KSWhnT1hGeWRBR3lhQkI5ZFlCaW9Oa3N0QzZRbFpwaFA5MUduMVdOak5jWDgyM2RBaV9ORi1QMlJuR1lfdENuaEdTUTdBTnZSOHRfbmprYmF2YXhoODJ0U293M0ZVa2U2ODljeXNzTUJQMWxxR3l5RTV0WDFrRS1TQkFxejFoMnRlQQ?oc=5",
-    "source": "ｄメニューニュース",
-    "dt": "2026-10-08T15:00:00+09:00",
-    "query": "intitle:\"WOWOW\""
-   },
-   {
-    "title": "- MANTANWEB(まんたんウェブ)",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OMTdXTC1DeGNfQVVoQUlibmhsczRpeGxkUENQTm1vQy0yOTJVczRTWTE1dEZDaXBjSjVweUF6OFJkNTVuaW5uYW42cVhWNUVmeUlub3NUaGNhRjhBbnI3WHoySEd4VkcxdERBOENfc1lLVmY3MXQyNXlSTDdrUQ?oc=5",
-    "source": "MANTANWEB",
-    "dt": "2026-10-08T14:53:20+09:00",
-    "query": "intitle:\"WOWOW\""
-   },
-   {
-    "title": "WOWOW、K-POPと韓国俳優を特集する新編成枠「K-POP & 韓流LOVERS」を10月にスタート",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wbktBa05wNXRDSTV0em5sYkZJVG1oMFVqbFN3bmpJbFVRTi1LTU1nSWVwWnY4d3A4ZHRoYWZBMUFuSXE2Vl9HcVZ3WUJmeEtGVGRLVA?oc=5",
-    "source": "音楽業界総合情報サイト",
-    "dt": "2026-10-08T14:22:41+09:00",
-    "query": "intitle:\"WOWOW\""
-   },
-   {
-    "title": "WOWOW＞新編成枠「K-POP & 韓流LOVERS」がスタート NCT 127、ATEEZ、SHINeeらのライブやファンミーティングを放送・配信（MANTANWEB）",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ySXFfQk1Ub0pFeGFGanl0X1Buc1lucXVtV1RCRVMyYVFVM3hfQVM2MENjdXV6UG9wUFI4b0NLYkNqRkZieXZuZThGZ0ZRVmZjdDhxOUlBYXllZkU3UHpUOTlDZjhYTVJNbjVmclFoOHNNZXRyM19JYlpUcE9XUUk?oc=5",
-    "source": "Yahoo!ニュース",
-    "dt": "2026-10-08T14:14:00+09:00",
-    "query": "intitle:\"WOWOW\""
-   },
-   {
-    "title": "NCT 127、ATEEZ、SHINee、BABYMONSTERら豪華集結！ WOWOW、新編成枠「K-POP & 韓流LOVERS」をスタート",
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBYX29uY09pNXRaUXVubUwzdkhncVlaUE82Vm1iaHlyYThyQ2dHVkh1cU0wbGFQLVh1ZWZYNm5MUVpwWU9WQnltdlBtZFU?oc=5",
-    "source": "KPOP monster",
-    "dt": "2026-10-08T13:28:56+09:00",
-    "query": "intitle:\"WOWOW\""
-   },
-   {
-    "title": "NCT 127、ATEEZ、SHINee、CNBLUE、BABYMONSTERほか続々お届け！WOWOW、K-POPアーティスト・韓国俳優のライブやファンミーティングを注力特集する新編成枠「K-POP & 韓流LOVERS」をスタート！",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1odlBNVDBfclpzdTB5YnhMbk5WckNZQmZJYXI5ZU5IVEViaEV3eFYwdlRmNU82TG9aelNOeEd3U3M4Mk5maTh1cXJLOA?oc=5",
-    "source": "K-POP、韓国エンタメニュース、取材レポートならコレポ！",
-    "dt": "2026-10-08T12:56:06+09:00",
-    "query": "intitle:\"WOWOW\""
-   },
-   {
-    "title": "WOWOW、K-POPアーティスト・韓国俳優のライブやファンミーティングを注力特集する新編成枠「K-POP & 韓流LOVERS」をスタート！",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XbVgyeEFfUzlUYVp5dVVMdHNPYVdqTTFObm51TTBFVDdyOWRub3BjTnNxcV9pX3VjOHh3OGI3U2g1dWtkOGp5c056bVR2X3FJcVdxbDIyc0NyOWNFZWF2SWRFQXptLXBsZ0E?oc=5",
-    "source": "PR TIMES",
-    "dt": "2026-10-08T12:00:02+09:00",
-    "query": "intitle:\"WOWOW\""
+    "title": "真風涼帆が明かす宝塚歌劇の固く強い絆「卒業してもなお、先輩方のお言葉に心が救われる瞬間がある」",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TUkRxaEc3RGR5RzFKN0FJUTNXV3ZOZERuWC1sWEtrRFQ0QUdrdllOSjAtVnZpeC1KT1VSTzlwMXM1RGNnUU9WQ1VkeGc2MVJodFg4REZTeWdxX2ZPSk1wdklsUURUZU90M19kdnRkVQ?oc=5",
+    "source": "J:magazine!",
+    "dt": "2026-10-09T16:00:00+09:00",
+    "query": "時代劇専門チャンネル"
    }
   ]
  },
@@ -419,13 +425,6 @@
     "query": "BS放送 4K"
    },
    {
-    "title": "広瀬裕也の記念すべき初ソロライブ！『広瀬裕也 Live Tour 2026",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5lYlhXODhHWHNEMUUwMExENm5reUZqZFhHNE5XMG5FcXBFS2N2ODNUUFB3Q2tQMnlCdExtZ2hsY2txSjVsclNiOWN3UmppTzlxMlFJWXZOLTEzcmRhOWtqTEZnWElNQnFQUllfN281U1lTU01RVzBuWjd3aw?oc=5",
-    "source": "ニコニコニュース",
-    "dt": "2026-10-12T09:45:38+09:00",
-    "query": "ケーブルテレビ"
-   },
-   {
     "title": "本日10月12日（月・祝）放送開始の2026秋ドラマ",
     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE42bVVFMmJHT1RkQ1RPWTJZWkdkR0ZlUkM3MnVfS0FUQ0RIRDdmSFBzbHgtZEpyOVdMRGpFVnJxN2tBWXg0OXpYaENIMA?oc=5",
     "source": "ナタリー",
@@ -451,6 +450,13 @@
     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15cUhwYVd2VDZFbVpfazcxZE42YmpQc2xjYXhwTEZTSDBKUmFyekZKLWh1UnVjNFpHci1JbEF3WHNvSWY3YkJlSjVhcGFVbmxFd1Bha3BiUE11MHdsLU5QSjk2X2I5RzlkRVB1Skl3?oc=5",
     "source": "au Webポータル",
     "dt": "2026-10-12T06:00:00+09:00",
+    "query": "放送業界 配信 視聴"
+   },
+   {
+    "title": "【一般ライブ】8/20 (木)11:55〜13:40【玄ちゃんひるおび＆スクープ最前線】佐波×三枝/加賀×井川×倉田 Europe (r1L30t3xhr)",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10MC11dDF1NUVDdUxhS1B0LU1JaGo1S1RKZy0yeGhRNFc2dEZnRmRpLUNSRGM4NFFpT19lWHNIV1lnYjdOYi1rSTZFTjJhMHptNUl3am1GM0FMVlY1Z1ZXelJrNUUtOEYwZ3hwVjRB?oc=5",
+    "source": "Unisba Media",
+    "dt": "2026-10-12T03:12:31+09:00",
     "query": "放送業界 配信 視聴"
    },
    {
@@ -509,10 +515,11 @@
   "items": [
    {
     "title": "Netflixで中国ドラマブーム、韓国ドラマ『冬のソナタ』が思い浮かぶ理由（1）（中央日報日本語版）",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmU0k1NnNRRHRUSlNyQ0VETzdocTdHU1QxNzVjMjdzVUtpU0otVnYxMWpvR3lBMG5kWWMyUDRvZDkyTU1fdDRObHVOTmxsbVFtc3lIV2dMbG93YUgxZ2h6S3F2Q2I1TDRreUJpT3BYSkNwRFNDM18zMU5wUEcxYmM?oc=5",
+    "link": "https://news.yahoo.co.jp/articles/e5dbea022c734aef2dd1d8e0d5b4f1e573e69851",
     "source": "Yahoo!ニュース",
     "dt": "2026-10-12T14:44:05+09:00",
-    "query": "\"中国ドラマ\""
+    "query": "\"中国ドラマ\"",
+    "resolved": true
    },
    {
     "title": "第30話「販路開拓の旅」",
@@ -564,13 +571,6 @@
     "query": "\"中国ドラマ\""
    },
    {
-    "title": "イケメン俳優ソン・ウェイロンらがヒロインをめぐる“すれ違い”三角関係 中国ドラマ「輝く太陽のように」の切な甘い魅力",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RVlF2TDBVQm5LU1EtcEFQaWRpanZTYXZ4V2ttWG1aUklUZUVhbGw4ZS10dFA5dGNJNk5YaXNMR2U2RmNCUS1OSG0ydlJwcF9tMU93S1ZXQUdsQQ?oc=5",
-    "source": "WEBザテレビジョン",
-    "dt": "2026-10-12T10:45:37+09:00",
-    "query": "\"中国ドラマ\""
-   },
-   {
     "title": "中国ドラマ「華の出陣～麗将・阿麦の仇討～」",
     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9QSm1ReEhjV2xDX2FUa29nRXlsNTRxNXZRdk56Q1p6QnpPMzRROGtqUjZGUllmSEkxcFNSc0JsVW8xMURsdGQ4VnJlWQ?oc=5",
     "source": "TVer",
@@ -611,19 +611,19 @@
     "source": "千葉テレビ放送",
     "dt": "2026-10-12T02:22:27+09:00",
     "query": "\"中華ドラマ\""
+   },
+   {
+    "title": "『VIVANT』別班員救出の裏で“野崎”阿部寛が仕掛けた一手？ ジャミーンを巡る言動を考察",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FZExGdGlGYVVOa3hSRm5DUDdsQlR2RS0yVjFiSDlsOENjdmZjaExVY3REMmdKbUZybVduTWgxWnpSOGhTM2Q4QVIwdW1xeFFoMkp3ZENreWNwcDdtSzNnaExLOEw?oc=5",
+    "source": "千葉テレビ放送",
+    "dt": "2026-10-12T01:13:19+09:00",
+    "query": "\"中華ドラマ\""
    }
   ]
  },
  {
   "category": "注目俳優（中国）",
   "items": [
-   {
-    "title": "「視聴率の女王」ヤン・ズーの法外な出演料が明らかになった。",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HQlNickVjRmFmY0xrMXBNR04wQzF2ejhwYzNDdHUxRmlnb2NRVVlIVTZHcmFSQ2x6U3lrUkZvOVFwMVpBUUJ5MklqTWY3aEJKZ2dXVGJKdWVibVZuS1Faam5lSHcydzF4dHhmRXMzNWR0U0otYWE3M2ROYWhxTVE?oc=5",
-    "source": "Vietnam.vn",
-    "dt": "2026-10-12T10:14:52+09:00",
-    "query": "\"シャオ・ジャン\" OR 肖戦"
-   },
    {
     "title": "この事件の後、趙露思は再びソーシャルメディア上で騒動を巻き起こした。",
     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTklRU1dBSVRUOHM3TWdqd0tQV0JRLWhDaXQ3TWZoNHZ5d2w5dGd4ekhFU1daRWlpLXljZ0FxM0VUVlhiRWZidlBBM19HSEQ4NVo5ZjR1MUl6cUJ5N1J6cWI3NmRwc2JQWnFHRUxhVzN1dEVWeVV4YjVvYkoyc2t6SWFCeHB4dw?oc=5",
@@ -803,7 +803,7 @@
     "title": "シャオジャン誕生日 肖战 十週年 肖戰新劇 肖戦 生日 xiao zhan birthday 田曦薇 肖戦新劇 シャオジャン最新情報 中国ドラマ 肖战 歌曲 ワンイーボー 陳情令 張哲瀚 王一博",
     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKZTVfTUJ5M2U1aDBiRDAyYlYwRjQ0SE94cnJKYmNSemgwREROLXotLS1CQVFCampXTFp0ekJHdkFNMkcweDNmYjVuTXRpWENqcVJ0Y2EwTU9DMEl5?oc=5",
     "source": "YouTube",
-    "dt": "2026-10-02T16:00:00+09:00",
+    "dt": "2026-10-03T13:55:47+09:00",
     "query": "\"ワン・イーボー\" OR 王一博"
    },
    {
@@ -826,6 +826,13 @@
     "source": "ぴあエンタメ情報",
     "dt": "2026-10-01T12:00:00+09:00",
     "query": "\"シャオ・ジャン\" OR 肖戦"
+   },
+   {
+    "title": "シャオ・ジャンとワン・イーボーの楽曲、歌詞が似ているとファン熱狂",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFbmNRdlg4MWdnZG9pSTFPS1pFRUFWbmt3a2g5S3pNTVFrSE43bXNpenhkMGFnUjh0QzQ4LVZsX2NGdXlQQWxETVFvYnBnUzI5djltcVpweTRNemtJTU9yUzVGOHJTZE0?oc=5",
+    "source": "Record China",
+    "dt": "2026-09-30T16:00:00+09:00",
+    "query": "\"ワン・イーボー\" OR 王一博"
    }
   ]
  },
@@ -910,18 +917,18 @@
     "query": "ドラマ 視聴率"
    },
    {
+    "title": "涙とキュンキュンが止まらない問題作！？【韓国ドラマ】2人の「顔天才」が尊すぎる♡沼って5日で完走",
+    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5MUVBiM2I2ZWRESl91TXlPZ0Y5a2luU0NkSEE5M1Yyb1ZtYmVrSXAwLS1LY0xqSS02Mm1YWFRPWDNfVHdC?oc=5",
+    "source": "ヨムーノ",
+    "dt": "2026-10-12T04:36:35+09:00",
+    "query": "ドラマ 視聴率"
+   },
+   {
     "title": "【あすから】ソン・スンホン＆クリスタルらが“天才詐欺集団”に 韓国ドラマ『プレーヤー～華麗なる天才詐欺師～』、放送スタート＜キャスト・あらすじ＞",
     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4yU2RSRENIT0lMbjY3VHJJQjY2M0lMZC11b2tRLXVnelV6M3ZYYTZncUNadXR0R0M2TmFnNHV0a3VINXo4bzhud2ZTMjg5Tm5PbXc?oc=5",
     "source": "山陽新聞",
     "dt": "2026-10-12T03:25:14+09:00",
     "query": "韓国ドラマ 日本 放送"
-   },
-   {
-    "title": "ドラマ「赤灯えれじい」ティザー映像 | テレビ東京 Kyle Wootton (wzqf5cuYfK)",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yNU9RRjh6OHNDQnE0cVdjTkNhZFNtUmREb0tUSEZObVRDSW4wYmVtd0lselBYQnhNSzdyeF9rXy1tclJ3SzZBRUw4RF91SXVCT19KNlNUeWZEVktfZHNJbXBJWHNlZw?oc=5",
-    "source": "Unisba Media",
-    "dt": "2026-10-12T03:21:18+09:00",
-    "query": "動画配信 ドラマ 独占配信"
    },
    {
     "title": "＝LOVE、「STARフェス」出演で最新曲も披露",
@@ -957,13 +964,6 @@
     "query": "デジタル広告 動向"
    },
    {
-    "title": "(株)フジ・メディア・ホールディングス【4676】：株価・株式情報（夜間PTS含む）",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45TTR4QlRUNTdvUXBNdzBrUEpWWEh1eHhFcHB5RnNRLWpJOUFYdlFGTUE2VklGbzVaVDEtTTNKbEE4RDRQSmNJdUU1T2pyYVZsVlE?oc=5",
-    "source": "Yahoo!ファイナンス",
-    "dt": "2026-10-12T04:24:44+09:00",
-    "query": "デジタル広告 動向"
-   },
-   {
     "title": "山本 一成",
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90a2p1QUMxUzVYV01mMDdlY1Fnb0NiMDRQTHpoUU9ac2lIZ1B3dHVPNXRZWEgwcUZacElqZXF4UkZmTVlZbUJvS0NRUjNNbndpZndLVC1qRldzN3BDSzhESThZTVZUQQ?oc=5",
     "source": "日経クロストレンド",
@@ -978,25 +978,11 @@
     "query": "SNS運用 X YouTube 施策"
    },
    {
-    "title": "令和“ニュー”シニア消費の実態",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uVEtRR2NCVHBZS2ZtQ1dPLVFJUUI0SmJSQlNKcVhWenlZOGg2a2ROZWwzVms5VktrVW1SYVhhczZSLXRHeWFJVHRGU1hqSXEzaTNVY1BsUkdaNGRtMnc?oc=5",
-    "source": "日経クロストレンド",
-    "dt": "2026-10-11T13:50:49+09:00",
-    "query": "広告 マーケティング 最新"
-   },
-   {
     "title": "【満足度100％】『令和の虎』榊󠄀原清一が青年会議所（JC）で登壇！次世代リーダーへ伝授した「組織拡大・ビジネスに直結する勝てるSNS集客術」セミナーを実施",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55clFqWlJYdVFjVlFWSFIxRlhJMmgtaUhpT1paaWE4UG5pSTBFT0NIUnRpZF9FT3ZVeEZMc1lpdjJIR0YwN3d4eE85OXdrSVFNMVFYSy1lQzk2N0h2YXhBZ0RJOEZMbjlPeUE?oc=5",
     "source": "PR TIMES",
     "dt": "2026-10-11T12:50:33+09:00",
     "query": "SNS運用 X YouTube 施策"
-   },
-   {
-    "title": "宮本 小夜子",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pWE5PQW1FVlpDSGxnY21iWU9uOVdIbDY3RnItaTdfcVgxZTN1REZCTGxzbmlrNkhhaE0tV19ocUlxd1pUVE4yOEdSOVZ6Y1FZVGE3WG90bWlzZF9kemRua2s0Q1ZDUQ?oc=5",
-    "source": "日経クロストレンド",
-    "dt": "2026-10-11T11:07:49+09:00",
-    "query": "広告 マーケティング 最新"
    },
    {
     "title": "柳葉敏郎、“青島”織田裕二との“2ショット”に「室井さんと青島」「最高すぎます」歓喜の声相次ぐ",
@@ -1006,17 +992,17 @@
     "query": "デジタル広告 動向"
    },
    {
-    "title": "武安 秀俊",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBCLVZ4a1FFOXZhUVBncHk4aHlRVm41a3dnbW5yWU9tNFpQTXlBakRIenYzcXQydHNfZGhCYUVveHp1WUNpYUV6NlhmZ0oxclZDS2NrMXQ0cFQ0cU9QTXY0TzJpR3FyZw?oc=5",
-    "source": "日経クロストレンド",
-    "dt": "2026-10-11T07:31:04+09:00",
-    "query": "広告 マーケティング 最新"
-   },
-   {
     "title": "カインズの「売れるデジタル戦略」大研究",
     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41aURyR1N4Ul9qSm9UbHY4LUQ3OFk2bEJGTklPbXp0T0xqVm9lRXRUYlVHc3FvX19rdG1TSDdRc2xOd3J6cnZJN3lHRmhwckJ3cjd3TjZOdUZqb1M5S3c?oc=5",
     "source": "日経クロストレンド",
     "dt": "2026-10-11T07:17:08+09:00",
+    "query": "広告 マーケティング 最新"
+   },
+   {
+    "title": "坂口 真祈",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iQW8yQzFTemNnUE56Wk1zcHRWN2h6VEUwX0ZUS0drX2FEUGQ0d1BVQkVpZDV2eUlXRFpSdWM5UDNfT09uNFBJRnNKYmEyelFpek9zVTlTdmhhRVJlZGtZSHRnVHdiZw?oc=5",
+    "source": "日経クロストレンド",
+    "dt": "2026-10-11T07:14:48+09:00",
     "query": "広告 マーケティング 最新"
    },
    {
@@ -1045,6 +1031,27 @@
     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LUUFSd2NvXzFralUzVXRacS1PM0I5Ykl0eE5MUFBNTW9CQjZ4TXR2V0kwMVR2REZYTUs4Y0RsUGY4YWVucl9CVnpDemV0VFduQmNtZGd1V1dJWE45Zmc?oc=5",
     "source": "日経クロストレンド",
     "dt": "2026-10-11T04:11:59+09:00",
+    "query": "広告 マーケティング 最新"
+   },
+   {
+    "title": "日経クロストレンドFORUM 2026",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BNlZFUGlSTDhHNm5CTWdHOFcwWUNNYTRlNnFkN1FORnRNdUhyWnJsSlRsUkpKYWIzWFV6QTVFLUdvNTBXR3AwUW9xenVYb0ZTMmtYcUl6LUVWRW1rb1E?oc=5",
+    "source": "日経クロストレンド",
+    "dt": "2026-10-11T02:29:52+09:00",
+    "query": "広告 マーケティング 最新"
+   },
+   {
+    "title": "楠崎 潤",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaVlRodmJfY1pZTWtUWUYtQkZkZkdMNXFpRXpyLW44T2lJaW1UNGlvM3pmX2pPRjZKamgteEhDdzV6eC1WTXBTYnpXM3FxYXBaeldTV0QtUUZrUFBQMDdaeU12eTBtQQ?oc=5",
+    "source": "日経クロストレンド",
+    "dt": "2026-10-10T23:51:28+09:00",
+    "query": "広告 マーケティング 最新"
+   },
+   {
+    "title": "吉田 聡子",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QNjctTDFyalNOSUFiZHBicDJ0QmZ1Nl9oY3BqOTRicmVTWU40SWNqZm9GTU5SWHlXWmZqQ2dVZG16ak9EbVFKbW0wX2pXRlZuWE9BZXlSZWlBZHJEWGM1bkFHbWhNdw?oc=5",
+    "source": "日経クロストレンド",
+    "dt": "2026-10-10T23:21:38+09:00",
     "query": "広告 マーケティング 最新"
    }
   ]
@@ -1083,13 +1090,6 @@
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnYy1IWmlyUEY1cEYxTHVOWTJ6TG1pcUt1cmthWjhRSjV2X1l3clppVjNsaWlwbXZ5SzVoQnNNMVQ5YV95MmgtalVtSm1pOGlWSWlhZVdXR1IxOTVlekg3RzNsZGE5YW9meGc?oc=5",
     "source": "PR TIMES",
     "dt": "2026-10-12T08:00:01+09:00",
-    "query": "プレスリリース 配信 トレンド"
-   },
-   {
-    "title": "【新発売】BALLOT（バロット）臭わせない、毎日へ。銀イオン配合ソックス",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41Rk9OMFZuR2xOODYwb1p4ZzRkWmcwUnhrV2ZDdm81N2xUaE1FTnJpd1NfRmFjbEV4WkdMdFNuRVZyVFBQSm5BcW11R3VnNlp3TEJlRnVCcFhTVHM?oc=5",
-    "source": "朝日新聞",
-    "dt": "2026-10-12T05:47:04+09:00",
     "query": "プレスリリース 配信 トレンド"
    },
    {
@@ -1170,17 +1170,24 @@
     "query": "プレスリリース 配信 トレンド"
    },
    {
-    "title": "満足度は驚きの100%(※)！美容クリエイターの交流イベント『LIPS Trend Fes FOR CREATORS』を9月12日(土)に開催",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15YWNpTEZSM2txQ0NUT3M4bmpXR1MtdHpQUWVkOHRUTEpVem12WDlsMXB4VG5QaVlVd3BqNW1zaVQyaXN6SEYtTDR1VHR0dHJMeW1ITQ?oc=5",
-    "source": "ニコニコニュース",
-    "dt": "2026-10-09T21:48:18+09:00",
-    "query": "プレスリリース 配信 トレンド"
-   },
-   {
     "title": "【LIPS月間トレンド賞】excelの\"彩るシェーディング\"に熱視線集中！スキンケア市場の成分トレンドに新たな動きあり",
     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HSURIWFd1TjEwSG9EUXppdFZaN3p2UTAzQnYxLXQ4MTFUWXF0czlMQjk1YlBBemhTMzZiVUp5YVM1bDEzX2dMbTZIZHowdG4yZXo3aA?oc=5",
     "source": "ニコニコニュース",
     "dt": "2026-10-09T20:00:27+09:00",
+    "query": "プレスリリース 配信 トレンド"
+   },
+   {
+    "title": "大きいバスタオルが好きな夫と、コンパクトに収納したい私が選んだのは、無印良品の「ワッフルバスタオル」でした",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12NW1hUW8tWkJjNXV1LUxFZmJwUVNCOGl6OWN3U0NORWxpVDgtSUhOTUNFYkY5Z1JoaE83V0FSSnRWTG84VEo1blQ5em5SV2Rfc0IxZ19iX1pvdTlwcnM0V1BDd2FqWDJ6?oc=5",
+    "source": "J-CAST ニュース",
+    "dt": "2026-10-09T19:30:00+09:00",
+    "query": "プレスリリース 配信 トレンド"
+   },
+   {
+    "title": "ANAインターコンチネンタル別府リゾート＆スパが記念日向け宿泊プランを刷新",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0Wi1IMjhRaklJOUpzSmtibDFxUDhoYVhtZ0VSbmVjM0dqb3dNNUxDcHg3bzhwSUdjODN6UHRZTV8tUERwanl2NlBvSkFRS3pnNEVsUEhTTkhUQU8yZ182UHRjTy04U0xl?oc=5",
+    "source": "J-CAST ニュース",
+    "dt": "2026-10-09T19:15:00+09:00",
     "query": "プレスリリース 配信 トレンド"
    }
   ]
