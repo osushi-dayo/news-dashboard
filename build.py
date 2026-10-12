@@ -91,14 +91,13 @@ def norm(t: str) -> str:
 
 def collect():
     now = datetime.now(JST)
-    cutoff = now - timedelta(days=MAX_AGE_DAYS)
     seen = set()
     result = []
     with ThreadPoolExecutor(8) as ex:
         for name, desc, queries in CATEGORIES:
             days = AGE_OVERRIDE.get(name, MAX_AGE_DAYS)
             batches = list(ex.map(lambda q: fetch(q, days), queries))
-            cutoff = now - timedelta(days=days)
+            cutoff = now - timedelta(days=days)  # カテゴリごとに算出
             items = []
             for b in batches:
                 for it in b:
