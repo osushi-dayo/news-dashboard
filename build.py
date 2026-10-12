@@ -22,7 +22,7 @@ LIMIT_OVERRIDE = {"競合チャンネル": 40, "注目俳優（中国）": 30}
 AGE_OVERRIDE = {"注目俳優（中国）": 14}  # カテゴリ別の対象日数
 # タイトルにこれらを含む記事は除外（スポーツ系）。不要な語は消し、必要な語は足してください
 EXCLUDE_WORDS = [
-    "スポーツ", "野球", "投手", "打者", "オイシックス", "桑田真澄", "ファーム", "プロ野球", "MLB", "ドジャース", "大谷翔平", "侍ジャパン", "甲子園", "サッカー", "Jリーグ",
+    "スポーツ", "リーグ", "プレミアリーグ", "ラ・リーガ", "セリエ", "ブンデス", "チャンピオンズ", "欧州", "野球", "投手", "打者", "オイシックス", "桑田真澄", "ファーム", "プロ野球", "MLB", "ドジャース", "大谷翔平", "侍ジャパン", "甲子園", "サッカー", "Jリーグ",
     "J1", "J2", "J3", "明治安田", "ハイライト動画", "Jリーグ", "WEリーグ", "W杯", "ワールドカップ", "日本代表", "なでしこ", "五輪", "オリンピック", "パラリンピック", "バレーボール",
     "バスケ", "Bリーグ", "ラグビー", "テニス", "ゴルフ", "競馬", "競輪", "競艇", "相撲", "場所", "マラソン", "駅伝",
     "陸上", "水泳", "体操", "柔道", "ボクシング", "格闘技", "RIZIN", "UFC", "F1", "モータースポーツ", "ハードル",
@@ -105,6 +105,10 @@ OLD_PAGE_PATTERN = re.compile(
 )
 
 
+# 「A vs B」形式の対戦カード（英字に隣接する vs は対象外）
+VS_PATTERN = re.compile(r"(?<![A-Za-z])vs\.?(?![A-Za-z])", re.I)
+
+
 def norm(t: str) -> str:
     return re.sub(r"[\s\W_]+", "", t)[:30]
 
@@ -122,7 +126,7 @@ def collect():
             for b in batches:
                 for it in b:
                     key = norm(it["title"])
-                    if it["dt"] < cutoff or key in seen or any(w in it["title"] for w in EXCLUDE_WORDS) or OLD_PAGE_PATTERN.search(it["title"]):
+                    if it["dt"] < cutoff or key in seen or any(w in it["title"] for w in EXCLUDE_WORDS) or OLD_PAGE_PATTERN.search(it["title"]) or VS_PATTERN.search(it["title"]):
                         continue
                     seen.add(key)
                     items.append(it)
