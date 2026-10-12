@@ -97,6 +97,10 @@ def fetch(query: str, days: int = 3):
     return items
 
 
+# 過去記事が日付更新されて紛れ込みやすい「画像ギャラリー」形式（例: ＜画像1 / 11＞）を除外
+OLD_PAGE_PATTERN = re.compile(r"[＜<]?\s*画像\s*\d+\s*[/／]\s*\d+\s*[＞>]")
+
+
 def norm(t: str) -> str:
     return re.sub(r"[\s\W_]+", "", t)[:30]
 
@@ -114,7 +118,7 @@ def collect():
             for b in batches:
                 for it in b:
                     key = norm(it["title"])
-                    if it["dt"] < cutoff or key in seen or any(w in it["title"] for w in EXCLUDE_WORDS):
+                    if it["dt"] < cutoff or key in seen or any(w in it["title"] for w in EXCLUDE_WORDS) or OLD_PAGE_PATTERN.search(it["title"]):
                         continue
                     seen.add(key)
                     items.append(it)
